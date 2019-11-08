@@ -29,4 +29,4 @@
 
 ## Connection
 
-![](image/connection.jpg)
+![](image/connections.jpg)
