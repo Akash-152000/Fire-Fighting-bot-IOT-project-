@@ -4,4 +4,4 @@
 
 ### Flame Sensors
 
-![](img/flame sensor.jpg)
+![](image/flame%20sensor.jpg)
