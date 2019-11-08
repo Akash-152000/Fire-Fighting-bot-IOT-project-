@@ -25,3 +25,8 @@
 #### Brain of the Bot
 
 ![](image/Arduino%20uno.jpg)
+
+
+## Connection
+
+![](image/connection.jpg)
