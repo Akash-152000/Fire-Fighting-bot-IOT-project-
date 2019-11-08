@@ -9,3 +9,8 @@
 ### Servo motor
 
 ![](image/servo%20motor.jpg)
+
+### Motor Driver
+#### I have used  L298n motor driver.
+
+![](image/l298n.jpg)
