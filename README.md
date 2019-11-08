@@ -18,3 +18,10 @@
 ### Dc motors
 
 ![](image/dcmotor(300rpm).jpg)
+
+
+### Arduino uno
+
+#### Brain of the Bot
+
+![](image/Arduino%20uno.jpg)
