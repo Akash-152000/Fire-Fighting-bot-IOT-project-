@@ -17,4 +17,4 @@
 
 ### Dc motors
 
-![](dcmotor(300rpm).jpg)
+![](image/dcmotor(300rpm).jpg)
