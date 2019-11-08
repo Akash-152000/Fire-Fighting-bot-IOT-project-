@@ -14,3 +14,7 @@
 #### I have used  L298n motor driver.
 
 ![](image/l298n.jpg)
+
+### Dc motors
+
+![](dcmotor(300rpm).jpg)
